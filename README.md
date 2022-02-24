@@ -5,27 +5,18 @@
 
 ## Specifications
 
-╔═════════════════════╤═════════════════════════════════════════════╗
-║ Specifications      │ Detail                                      ║
-╠═════════════════════╪═════════════════════════════════════════════╣
-║ Model               │ HP ProBook 450 G1                           ║
-╟─────────────────────┼─────────────────────────────────────────────╢
-║ CPU                 │ Intel Core i5-4200M                         ║
-╟─────────────────────┼─────────────────────────────────────────────╢
-║ RAM                 │ 8 GB 1600MHz DDR3                           ║
-╟─────────────────────┼─────────────────────────────────────────────╢
-║ Integrated Graphics │ Intel® HD Graphics 4600                     ║
-╟─────────────────────┼─────────────────────────────────────────────╢
-║ Dedicated Graphics  │ AMD Radeon 8750M 1GB                        ║
-╟─────────────────────┼─────────────────────────────────────────────╢
-║ Monitor             │ HD 1366*768 (15.6 inch)                     ║
-╟─────────────────────┼─────────────────────────────────────────────╢
-║ Wireless Card       │ Mediatek MT7630E 802.11bgn                  ║
-╟─────────────────────┼─────────────────────────────────────────────╢
-║ Ethernet/LAN        │ Realtek RTL8168/8111 PCI-E Gigabit Ethernet ║
-╟─────────────────────┼─────────────────────────────────────────────╢
-║ Sound Card          │ IDT 92HD91                                  ║
-╚═════════════════════╧═════════════════════════════════════════════╝
+
+| Specifications      | Detail                                      |
+| --------------------|-------------------------------------------- |
+| Model               | HP ProBook 450 G1                           |
+| CPU                 | Intel Core i5-4200M                         |
+| RAM                 | 8 GB 1600MHz DDR3                           |
+| Integrated Graphics | Intel® HD Graphics 4600                     |
+| Dedicated Graphics  | AMD Radeon 8750M 1GB                        |
+| Monitor             | HD 1366*768 (15.6 inch)                     |
+| Wireless Card       | Mediatek MT7630E 802.11bgn                  |
+| Ethernet/LAN        | Realtek RTL8168/8111 PCI-E Gigabit Ethernet |
+| Sound Card          | IDT 92HD91                                  |
 
 ## Working
 - CPU Power Management
