@@ -42,7 +42,7 @@
 
 ## Not Tested
 - HDMI Port (I'll test later)
-- Screen LID sleep (my laptop LID sensor not working if someone test that option tell me)
+- Screen LID sleep (my laptop LID sensor doesn't working if someone test that option tell me)
 
 ## OpenCore
 - OpenCore v0.7.8 Release on Feb 07 2022
