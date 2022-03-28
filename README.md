@@ -36,7 +36,7 @@
 
 ## Not Working
 - Dedicated GPU (Disabled in SSDT)
-- USB 3.0 ports (I dont have any usb 3.0 device to remap for now)
+- USB 3.0 ports (I dont have any usb 3.0 device to remap for now , works on usb 2.0 mode)
 - Wi-Fi & Bluetooth (There is no driver for mediatek PCI wifi/bluetooth)
 - SDXC Card Reader (Not supported in MacOS)
 
